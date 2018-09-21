@@ -1,0 +1,7 @@
+use the code from locatehost.py to design a scan for available hosts
+once we know whos alive we check for the proper port on each host
+
+once we find it, we move to negotiating a connection and sending the files
+then we close off and shutdown
+(we should consider using the GPIO to have a led to indicate some sort of status)
+
